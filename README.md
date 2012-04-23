@@ -1,29 +1,11 @@
-# Introducing Webex Log Tracer Cloud
-This is the cloud version of wbxtracer.
+#第四章
 
-## Features to implement
-* Support OpenAuth/OpenID
-* Upload wbt to server. share with others
-* Filtering using 'OR AND NOT ( )'
-* Store bookmarks/annotations to server
-* Have a cool UI
+## 练习风格
 
+练习这个词在本书中出现很多次。很明显，练习是关键。
+你对练习的看法取决于你学习哨笛的动机和目标。
+有一些人喜欢比较轻松的方式，就算进步慢一点也无所谓；
+而另一些人则很努力，所以进步也很快。大部分人处于两者之间。
 
-## Bug Report
-If you found any bugs, file a report here.
-
-
-## Credits
-@nicoster @oyslin @blueion
-
-##License
-(The MIT License)
-
-Copyright © 2012 Walt Ouyang, Anderson Li, Nick Xiao
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ‘Software’), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+不管你的方式方法是什么，你都希望能够持续的提高演奏技巧，加深对哨笛的认识。
+这也就意味着要做好功课。
